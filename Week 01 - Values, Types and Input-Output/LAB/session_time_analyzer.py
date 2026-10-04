@@ -11,14 +11,19 @@ Run it:   python template.py
 Work through the numbered sections in order. Each one tells you what it must do.
 Delete these instructions as you replace them with your code.
 """
-
 # ==================================================================== INPUT
+<<<<<<< HEAD
 # 1. Ask the user for your three values.
+=======
+>>>>>>> ec335120d474d80b212ef6ee064fc5fcefc14679
 
 address_IT = input("Enter  your IT address: ")
 login_time = float(input("Enter your login time: "))
 total_time = float(input("Enter total time: "))
+<<<<<<< HEAD
 
+=======
+>>>>>>> ec335120d474d80b212ef6ee064fc5fcefc14679
 
 label = address_IT
 first = login_time
@@ -28,7 +33,6 @@ second = total_time
 
 difference = (second - first)  
 percent =  (first / second) * 100     
-
 
 # =================================================================== OUTPUT
 
