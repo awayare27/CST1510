@@ -8,22 +8,13 @@ Date  :10/02/2026
 
 Run it:   python template.py
 
-Work through the numbered sections in order. Each one tells you what it must do.
-Delete these instructions as you replace them with your code.
-"""
 # ==================================================================== INPUT
-<<<<<<< HEAD
-# 1. Ask the user for your three values.
-=======
->>>>>>> ec335120d474d80b212ef6ee064fc5fcefc14679
+
 
 address_IT = input("Enter  your IT address: ")
 login_time = float(input("Enter your login time: "))
 total_time = float(input("Enter total time: "))
-<<<<<<< HEAD
 
-=======
->>>>>>> ec335120d474d80b212ef6ee064fc5fcefc14679
 
 label = address_IT
 first = login_time
@@ -41,7 +32,7 @@ print("=" * 34)
 print(f"  RECORD CHECK  -  {label}")
 print("=" * 34)
 
-# : your report lines go here
+
 
 print (f" Your IT address: {label}")
 print (f" Your login time: {first}")
@@ -54,10 +45,4 @@ print(" Status          : Session verified successfully.")
 print("=" * 34)
 
 
-# ==========================================================================
-# 4. Before you finish:
-#
-#    [ ] Run it three times with different numbers
-#    [ ] Run it with a total of 0 and write the error in your journal
-#    [ ] Check every variable name says what it holds
-#    [ ] Show it to the person next to you
+
