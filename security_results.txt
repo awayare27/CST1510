@@ -1,0 +1,3 @@
+admin_IP,OVER LIMIT
+user_john,WARNING
+guest_node,OK
