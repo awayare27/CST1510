@@ -37,9 +37,9 @@ class Record:
 
 # ==================================================================== RECORDS
 with open("security_metrics.txt", "w") as f:
-    f.write("Auth-BruteForce-Attempts,120.0,100.0\n")
-    f.write("Inbound-DDoS-Rate,85.0,100.0\n")
-    f.write("Firewall-Drop-Spike,95.0,100.0\n")
+    f.write("Awa_Fall,120,100\n")
+    f.write("john_Her,95,100\n")
+    f.write("Diange_Moh,45,100\n")
 
 def load_records(path):
     records = []

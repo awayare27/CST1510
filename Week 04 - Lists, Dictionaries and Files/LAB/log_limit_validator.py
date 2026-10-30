@@ -51,9 +51,9 @@ def load_records(path):
 
 # Automatically create a sample login log file for testing if it doesn't exist
 with open("login_logs.txt", "w") as f:
-    f.write("admin_IP,120,100\n")
-    f.write("user_john,95,100\n")
-    f.write("guest_node,45,100\n")
+    f.write("Awa_Fall,120,100\n")
+    f.write("john_Her,95,100\n")
+    f.write("Diange_Moh,45,100\n")
 
 # Load records using the function
 records = load_records("login_logs.txt")

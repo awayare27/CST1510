@@ -6,13 +6,10 @@ Name  : Awa Yare Fall
 Lane  :  Cyber 
 Date  :11/10/2026
 
+Work through the numbered sections in order. Each one tells you what it must do.
+Delete these instructions as you replace them with your code.
+"""
 
-
-<<<<<<< HEAD
-=======
-# =================================================================== FUNCTIONS
-
->>>>>>> e30e108b88d78c0993f9cb951dd55227101bc894
 def status_of(percent):    # Return the status based on the given percentage threshold.
     if percent >= 100:
         return "OVER LIMIT"
@@ -67,12 +64,5 @@ while True:
     # Print the total count of security breaches triggered
     print(f"Total OVER LIMIT Breaches: {over_limit_count}")
     print() 
-<<<<<<< HEAD
-=======
-
-# ==========================================================================
-
-# ==========================================================================
->>>>>>> e30e108b88d78c0993f9cb951dd55227101bc894
 
 # ==========================================================================
