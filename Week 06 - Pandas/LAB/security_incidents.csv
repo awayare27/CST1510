@@ -1,0 +1,6 @@
+Server ID,Failed login attempts,Max allowed failed attempt,percent,status
+SRV-Auth-01,120,100,120.0,OVER allowed failed attempts
+SRV-Web-02,94,100,94.0,WARNING
+SRV-DB-03,45,100,45.0,OK
+SRV-API-04,105,100,105.0,OVER allowed failed attempts
+SRV-Mail-05,82,100,82.0,OK

@@ -1,0 +1,6 @@
+Server ID,Failed login attempts,Max allowed failed attempt
+SRV-Auth-01,120,100
+SRV-Web-02,94,100
+SRV-DB-03,45,100
+SRV-API-04,105,100
+SRV-Mail-05,82,100
